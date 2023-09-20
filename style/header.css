@@ -176,3 +176,12 @@
         display: block;
     }
 }
+
+.card botoes {
+    display: flex;
+    justify-content: space-between;
+    }
+
+    .botoes {
+        display: flex;
+        }
